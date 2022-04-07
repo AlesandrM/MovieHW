@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class MoviePosterTest {
 
-    private MoviePoster manager = new MoviePoster();
+    private MoviePoster poster = new MoviePoster();
 
 
     private final Movie first = new Movie(1, "http://", "Spider-Man: No Way Home", "Adventure");

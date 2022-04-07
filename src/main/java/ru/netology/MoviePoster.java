@@ -43,4 +43,6 @@ public class MoviePoster {
     }
 
 
+    public void add(Movie first) {
+    }
 }
